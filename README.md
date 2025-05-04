@@ -1,1 +1,1 @@
-# lib
+Story about olympics database.
